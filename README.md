@@ -43,7 +43,5 @@ Installation is optional and at the user’s discretion.
 ## 📄 License
 This project is provided for educational and personal use.
 
----
 
-Developed with care to support daily Islamic practices 🤍
 
