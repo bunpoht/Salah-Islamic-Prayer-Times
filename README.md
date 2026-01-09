@@ -1,6 +1,6 @@
 # Muslim Companion
 
-<img src="https://github.com/user-attachments/assets/7091b1f7-6d28-4258-ad94-45a804beb0bc" width="350">
+<img src="https://github.com/user-attachments/assets/b5574a0b-9953-414c-bc99-82365c342f1d" width="350">
 </br></br>
 
 
