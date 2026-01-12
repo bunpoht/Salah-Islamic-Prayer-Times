@@ -1,8 +1,8 @@
 # Salah | Islamic Prayer Times
 
-<img src="https://github.com/user-attachments/assets/3af5a869-bc7f-4cec-9b44-f7ed0b854380" width="300">
-<img src="https://github.com/user-attachments/assets/985d4fd6-972b-469f-a8f8-3016e3268160" width="300">
-<img src="https://github.com/user-attachments/assets/7418d213-40c3-4bfb-a919-fe1692160a39" width="300">
+<img src="https://github.com/user-attachments/assets/3af5a869-bc7f-4cec-9b44-f7ed0b854380" width="30%">
+<img src="https://github.com/user-attachments/assets/985d4fd6-972b-469f-a8f8-3016e3268160" width="30%">
+<img src="https://github.com/user-attachments/assets/7418d213-40c3-4bfb-a919-fe1692160a39" width="30%">
 </br></br>
 
 **Salah | Islamic Prayer Times** is a lightweight and reliable Android application designed to assist Muslims in daily worship.
